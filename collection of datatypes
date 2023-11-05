@@ -1,0 +1,3 @@
+#collection of datatypes
+list=[10,20,30,'manu']
+print(list)
